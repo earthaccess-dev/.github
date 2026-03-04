@@ -1,17 +1,5 @@
-# :sparkles: Welcome to the new home of `earthaccess`! ✨
+# :sparkles: Welcome to the home of `earthaccess`! ✨
 
-The `earthaccess` project now lives in this organization instead of the
-[National Snow and Ice Data Center (NSIDC)](https://github.com/nsidc) organization.
-This move was done for many reasons, chief among them to better define the project as community-owned.
+This organization exists to facilitate collaboration around `earthaccess` and related tooling. We anticipate that other projects will join `earthaccess` in this organization in the future.
 
-
-## What you need to do
-
-### Users
-
-Nothing! this move should be completely transparent to you.
-If you find that this isn't the case, please open an issue.
-
-### Contributors
-
-_TODO_
+For a look at how this organization came to be here, see [this record of the decision to move earthaccess from NSIDC to earthaccess-dev](https://github.com/earthaccess-dev/earthaccess/blob/main/docs/governance/decisions/929-move-repository.md).
